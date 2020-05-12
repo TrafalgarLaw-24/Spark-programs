@@ -22,12 +22,13 @@ pip install -r requirements.txt
 3. Required libraries.
 ```
 
-
-
 ## Running the tests
 
 ```
 spark-submit filename.py
 ```
 
+## Authors
+
+* **Sirajudeen A** - *Complete work* 
 
