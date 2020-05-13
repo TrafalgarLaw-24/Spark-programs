@@ -1,6 +1,6 @@
 # Spark Programs
 
-A set of pyspark scripts for anyone to learn. Data I used is of movies and details of them in IMDB.
+A set of pyspark scripts for anyone to learn. Data I've used is of movies and details from IMDB.
 
 ## Getting Started
 

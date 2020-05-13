@@ -7,6 +7,8 @@ sc = SparkContext(conf = conf)
 #open the file u.data and you'll know it's full of numbers.
 #second variable in this is the corresponding number for a movie.
 #we'll see movie with names in coming files in the repo.
+
+#load the file. provide correct path
 lines = sc.textFile("Spark-programs/data/ml-100k/u.data")
 
 #add '1' and create a tuple with every movie in the list
