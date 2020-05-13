@@ -20,7 +20,7 @@ To install Apache Spark and Python ---> Windows, MacOS, Linux
 https://sundog-education.com/spark-python/
 ```
 
-The 'requirement.txt' has all the libraries that should be present. Run the below to get them installed.
+The 'requirement.txt' has all the libraries that should be present along with so many other libraries which will come in handy if you're gonna work with Big data, ML etc. Run the below to get them installed.
  
 ```
 pip install -r requirements.txt
@@ -37,10 +37,6 @@ spark-submit filename.py
 ## Authors
 
 * **Sirajudeen A** - *Complete work* 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
