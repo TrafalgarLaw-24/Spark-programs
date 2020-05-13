@@ -1,6 +1,6 @@
-# Project Title
+# Spark Programs
 
-A set of spark programs for anyone to learn. Data I used is of movies and details of them in IMDB.
+A set of pyspark scripts for anyone to learn. Data I used is of movies and details of them in IMDB.
 
 ## Getting Started
 
