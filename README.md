@@ -1,6 +1,8 @@
 # Spark Programs
 
 A set of pyspark scripts for anyone to learn. Data I've used is of movies and details from IMDB.
+I'll be uploading new programs regularly so keep an eye out :)
+
 
 ## Getting Started
 
@@ -37,6 +39,10 @@ spark-submit filename.py
 ## Authors
 
 * **Sirajudeen A** - *Complete work*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
