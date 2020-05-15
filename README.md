@@ -4,7 +4,9 @@ A set of pyspark scripts for anyone to learn. Data I've used is of movies and de
 I'll be uploading new programs regularly so keep an eye out :)
 
 ## Contents
-1. [src/main/python/1.work-count.py]work-count.py - Count number of words in a text file.
+1. [Work-Count.py](src/main/python/1.work-count.py) --> Count number of words in a text file.
+2. [Ratings-Counter](src/main/python/2.ratings-counter.py) --> count number of ratings of movies.
+3. [Popular-Movies](src/main/python/3.popular-movies.py) --> Finding the popular movies.
 
 ## Getting Started
 
