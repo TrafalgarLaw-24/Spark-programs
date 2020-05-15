@@ -3,6 +3,8 @@
 A set of pyspark scripts for anyone to learn. Data I've used is of movies and details from IMDB.
 I'll be uploading new programs regularly so keep an eye out :)
 
+## Contents
+1. [src/main/python/1.work-count.py]work-count.py - Count number of words in a text file.
 
 ## Getting Started
 
