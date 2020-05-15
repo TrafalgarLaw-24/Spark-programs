@@ -1,7 +1,6 @@
 from pyspark import SparkConf, SparkContext
 import collections
 
-
 #we're going to find out how many movies where present in the ratings 1 to 5
 conf = SparkConf().setMaster("local").setAppName("RatingsHistogram")
 sc = SparkContext(conf = conf)

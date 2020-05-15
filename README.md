@@ -3,6 +3,10 @@
 A set of pyspark scripts for anyone to learn. Data I've used is of movies and details from IMDB.
 I'll be uploading new programs regularly so keep an eye out :)
 
+## Contents
+1. [Work-Count.py](https://github.com/TrafalgarLaw-24/Spark-programs/blob/branch1/src/main/python/1.word-count.py) --> Count number of words in a text file.
+2. [Ratings-Counter](https://github.com/TrafalgarLaw-24/Spark-programs/blob/branch1/src/main/python/2.ratings-counter.py) --> count number of ratings of movies.
+3. [Popular-Movies](https://github.com/TrafalgarLaw-24/Spark-programs/blob/branch1/src/main/python/3.popular-movies.py) --> Finding the popular movies.
 
 ## Getting Started
 
